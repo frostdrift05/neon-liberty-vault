@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Neon Liberty Vault</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="garage">GARAGE</string>
+    <string name="evidence">EVIDENCE</string>
+    <string name="go">GO</string>
+    <string name="bank">BANK</string>
+    <string name="resume">RESUME</string>
+    <string name="walk_away">WALK AWAY</string>
+
+    <string name="splash_title">NEON LIBERTY VAULT</string>
+    <string name="splash_subtitle">EIGHT HOURS · NINE DISTRICTS · ONE ROUTE</string>
+    <string name="splash_caption">DECODING CITY SIGNALS</string>
+    <string name="splash_emblem_cd">Vault emblem</string>
+
+    <string name="menu_tagline">LIBERTY CITY · 22:00</string>
+    <string name="menu_play_sub">RUN THE NIGHT</string>
+    <string name="menu_best_night">BEST NIGHT</string>
+    <string name="menu_reputation">REPUTATION</string>
+    <string name="menu_empty_runs">NO RUNS ON RECORD - THE CITY IS STILL CLEAN</string>
+    <string name="menu_upgrades_fmt">UPGRADES %1$d/%2$d</string>
+    <string name="menu_pins_fmt">PINS %1$d/%2$d</string>
+    <string name="menu_endings_fmt">ENDINGS SEEN %1$d/%2$d</string>
+    <string name="menu_disclaimer">18+ VISUAL STYLE ONLY · NO REAL MONEY</string>
+    <string name="menu_chips_cd">Banked chips</string>
+
+    <string name="rep_street">STREET</string>
+    <string name="rep_unaligned">UNALIGNED</string>
+    <string name="rep_syndicate">SYNDICATE</string>
+    <string name="rep_value_fmt">%1$s %2$s</string>
+
+    <string name="game_move_fmt">MOVE %1$d/%2$d</string>
+    <string name="game_clock_fmt">%1$02d:00</string>
+    <string name="game_seed_fmt">SEED %1$d</string>
+    <string name="game_heat">HEAT</string>
+    <string name="game_heat_fmt">HEAT %1$d/%2$d</string>
+    <string name="game_take_fmt">TAKE %1$s</string>
+    <string name="game_streak_fmt">x%1$s</string>
+    <string name="game_decode_fmt">DECODE %1$d</string>
+    <string name="game_pause_cd">Pause the night</string>
+    <string name="game_car_cd">Crew car</string>
+    <string name="game_vault_cd">Vault door</string>
+    <string name="game_antenna_cd">Signal antenna</string>
+    <string name="game_chips_cd">Chip bundle</string>
+
+    <string name="hint_plan">TAP A LIT DISTRICT · PICK A CREW LEAD · THEN GO</string>
+    <string name="hint_vault">BREACH THE VAULT BLOCK - THIS ENDS THE NIGHT</string>
+    <string name="hint_fence">FENCE OPEN - BANK TAKE COSTS 1 MOVE</string>
+    <string name="hint_resolving">HOLD STILL - THE STREET IS WATCHING</string>
+
+    <string name="nerve_fmt">NERVE %1$d</string>
+    <string name="crew_spent">SPENT</string>
+    <string name="state_selected">selected</string>
+    <string name="state_spent">spent</string>
+    <string name="state_locked">locked</string>
+    <string name="state_visited">visited</string>
+    <string name="state_current">current</string>
+
+    <string name="node_payout_exact_fmt">%1$d</string>
+    <string name="node_payout_guess_fmt">~%1$d</string>
+    <string name="node_breach">BREACH</string>
+    <string name="node_mark_visited">✓</string>
+    <string name="node_mark_locked">✗</string>
+
+    <string name="resolve_clean_fmt">CLEAN SCORE +%1$s</string>
+    <string name="resolve_close_fmt">CLOSE CALL +%1$s</string>
+    <string name="resolve_burned">BURNED</string>
+    <string name="resolve_banked_fmt">BANKED %1$s</string>
+
+    <string name="abort_title">WALK AWAY?</string>
+    <string name="abort_body">THE NIGHT ENDS HERE. ONLY BANKED CHIPS COME HOME.</string>
+
+    <string name="district_0">NEON MILE</string>
+    <string name="district_1">CHROME DOCKS</string>
+    <string name="district_2">ASHGLASS ROW</string>
+    <string name="district_3">SODIUM FLATS</string>
+    <string name="district_4">THE VAULT BLOCK</string>
+    <string name="district_5">WIRE DISTRICT</string>
+    <string name="district_6">AMBER QUAY</string>
+    <string name="district_7">RUSTGATE</string>
+    <string name="district_8">MAGENTA STRIP</string>
+
+    <string name="crew_0">DECK</string>
+    <string name="crew_1">WIRE</string>
+    <string name="crew_2">BRICK</string>
+    <string name="crew_3">SUIT</string>
+
+    <string name="job_wheels">WHEELS</string>
+    <string name="job_wires">WIRES</string>
+    <string name="job_muscle">MUSCLE</string>
+    <string name="job_words">WORDS</string>
+    <string name="job_vault">VAULT</string>
+
+    <string name="mission_0_title">THE COURIER CASE</string>
+    <string name="mission_0_body">A COURIER IS DOWN IN THE RAIN ON NEON MILE. THE CASE IS STILL CUFFED TO HIS WRIST.</string>
+    <string name="mission_0_a">TAKE THE CASE</string>
+    <string name="mission_0_b">CALL IT IN</string>
+    <string name="mission_1_title">OPEN GRID CABINET</string>
+    <string name="mission_1_body">A SERVICE CABINET HANGS OPEN IN THE WIRE DISTRICT. THE WHOLE BLOCK RUNS THROUGH IT.</string>
+    <string name="mission_1_a">BURN THE GRID</string>
+    <string name="mission_1_b">SELL THE ACCESS</string>
+    <string name="mission_2_title">THE SYNDICATE RUNNER</string>
+    <string name="mission_2_body">A RUNNER WAITS UNDER THE CHROME DOCKS CRANE WITH AN OFFER AND NO BACKUP.</string>
+    <string name="mission_2_a">SHAKE HANDS</string>
+    <string name="mission_2_b">ROB THE RUNNER</string>
+
+    <string name="ending_0_title">BUSTED AT THE LIGHTS</string>
+    <string name="ending_0_text">THREE CRUISERS BOXED THE CAR IN BEFORE THE SIGNAL TURNED GREEN.</string>
+    <string name="ending_1_title">GHOST EXIT</string>
+    <string name="ending_1_text">NO SIREN, NO WITNESS, NO NAME. THE CITY NEVER NOTICED THE DOOR OPEN.</string>
+    <string name="ending_2_title">CROWN TAKE</string>
+    <string name="ending_2_text">THE VAULT CODE HELD AND THE WHOLE STRIP LEARNED WHO RUNS IT NOW.</string>
+    <string name="ending_3_title">BURNED DEAL</string>
+    <string name="ending_3_text">EVERY FENCE IN LIBERTY CITY SHORTED THE COUNT AND SMILED WHILE DOING IT.</string>
+    <string name="ending_4_title">EMPTY VAULT</string>
+    <string name="ending_4_text">SUNRISE CAME FIRST. THE DOOR STAYED SHUT AND THE CREW DROVE HOME.</string>
+
+    <string name="result_take_banked">TAKE BANKED</string>
+    <string name="result_heat_exit">HEAT AT EXIT</string>
+    <string name="result_districts">DISTRICTS HIT</string>
+    <string name="result_best_streak">BEST STREAK</string>
+    <string name="result_new_evidence_fmt">NEW EVIDENCE +%1$d</string>
+    <string name="result_lost_fmt">UNBANKED LOST %1$s</string>
+    <string name="result_art_cd">Ending art</string>
+
+    <string name="garage_title">GARAGE</string>
+    <string name="garage_car_cd">The crew car on the bay floor</string>
+    <string name="garage_installed">✓ INSTALLED</string>
+    <string name="garage_buy_fmt">BUY %1$d</string>
+    <string name="garage_need_fmt">NEED %1$d</string>
+    <string name="upgrade_0_name">CHROME PLATING</string>
+    <string name="upgrade_0_effect">HEAT CAP RISES TO 125 BEFORE A BUST</string>
+    <string name="upgrade_1_name">SIGNAL SCRAMBLER</string>
+    <string name="upgrade_1_effect">ONE EXTRA DECODE CHARGE EVERY NIGHT</string>
+    <string name="upgrade_2_name">NITROUS INJECTOR</string>
+    <string name="upgrade_2_effect">ONE EXTRA MOVE BEFORE SUNRISE</string>
+    <string name="upgrade_3_name">ARMORED TRUNK</string>
+    <string name="upgrade_3_effect">CLEAN SCORES PAY TEN PERCENT MORE</string>
+
+    <string name="evidence_title">EVIDENCE</string>
+    <string name="evidence_pins_fmt">PINS %1$d/%2$d</string>
+    <string name="evidence_note">8 PINS OPEN THE VAULT CODE - CROWN TAKE BECOMES POSSIBLE</string>
+    <string name="evidence_empty">NOTHING PINNED YET - RUN A NIGHT AND BRING SOMETHING BACK</string>
+    <string name="evidence_locked_mark">?</string>
+    <string name="evidence_pin_cd">Evidence file</string>
+    <string name="pin_0">A RAIN SOAKED PARKING TICKET STAMPED 02:14 ON NEON MILE.</string>
+    <string name="pin_1">CRANE LOG WITH ONE CONTAINER MISSING FROM THE MANIFEST.</string>
+    <string name="pin_2">A GALLERY INVITE WITH THE VAULT FLOOR PENCILLED ON THE BACK.</string>
+    <string name="pin_3">TYRE CAST FROM THE FLATS SERVICE ROAD, TREAD NEARLY GONE.</string>
+    <string name="pin_4">A BRASS KEY BLANK CUT FOR A LOCK NOBODY SELLS.</string>
+    <string name="pin_5">SPLICED FIBRE TAP STILL WARM, LABELLED IN RED MARKER.</string>
+    <string name="pin_6">FERRY SCHEDULE WITH THE 03:40 CROSSING CIRCLED TWICE.</string>
+    <string name="pin_7">GARAGE RECEIPT FOR FOUR TYRES PAID IN LOOSE CHIPS.</string>
+    <string name="pin_8">CLUB DOOR LIST WITH ONE NAME SCRATCHED OUT.</string>
+    <string name="pin_9">THE COURIER CASE, OPENED. BEARER BONDS AND A ROOM NUMBER.</string>
+    <string name="pin_10">A PATROL REPORT THAT THANKS AN ANONYMOUS CALLER.</string>
+    <string name="pin_11">GRID FAULT LOG FOR A BLACKOUT NOBODY ORDERED.</string>
+    <string name="pin_12">AN ACCESS CODE SOLD TWICE, BOTH BUYERS NAMED.</string>
+    <string name="pin_13">A SYNDICATE MARKER, SIGNED, GOOD FOR ONE FAVOUR.</string>
+    <string name="pin_14">A RUNNER STATEMENT DESCRIBING A CAR LIKE YOURS.</string>
+    <string name="hint_0">HIT NEON MILE CLEAN</string>
+    <string name="hint_1">HIT CHROME DOCKS CLEAN</string>
+    <string name="hint_2">HIT ASHGLASS ROW CLEAN</string>
+    <string name="hint_3">HIT SODIUM FLATS CLEAN</string>
+    <string name="hint_4">BREACH THE VAULT BLOCK</string>
+    <string name="hint_5">HIT THE WIRE DISTRICT CLEAN</string>
+    <string name="hint_6">HIT AMBER QUAY CLEAN</string>
+    <string name="hint_7">HIT RUSTGATE CLEAN</string>
+    <string name="hint_8">HIT MAGENTA STRIP CLEAN</string>
+    <string name="hint_9">TAKE THE COURIER CASE</string>
+    <string name="hint_10">CALL THE COURIER IN</string>
+    <string name="hint_11">BURN THE WIRE DISTRICT GRID</string>
+    <string name="hint_12">SELL THE GRID ACCESS</string>
+    <string name="hint_13">SHAKE HANDS AT CHROME DOCKS</string>
+    <string name="hint_14">ROB THE SYNDICATE RUNNER</string>
+
+    <string name="back_cd">Back</string>
+    <string name="decode">DECODE</string>
+</resources>
